@@ -2,7 +2,7 @@ langchain==0.3.27
 langchain-core==0.3.75
 langchain-community==0.3.29
 langchain-text-splitters==0.3.11
-
+python==3.10.10
 langgraph==0.6.7
 
 langchain-groq==0.3.8
